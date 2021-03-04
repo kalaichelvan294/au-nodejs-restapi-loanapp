@@ -1,0 +1,19 @@
+[
+    {
+        "name":"kalai",
+        "userId":"admin@user.com",
+        "password":"admin",
+        "address":"No 121, 5th st, New Nagar, Google - 127001",
+        "mobile":"928192829",
+        "role":"user"
+    },
+    {
+        "name":"chelvan",
+        "userId":"admin@manager.com",
+        "password":"admin",
+        "mobile":"9281226729",
+        "address":"No 121, 5th st, New Nagar, Google - 127001",
+        "role":"manager",
+        "branchName":"State Bank of India - Tirupapuliyur"
+    }
+]
